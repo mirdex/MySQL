@@ -20,7 +20,7 @@
 
 #### 課程大綱
 - 理論部分
-  - [1.資料庫簡介](c)
+  - [1.資料庫簡介](https://mirdex.github.io/MySQL/0.%20MySQL.slides.html)
   - [2.資料庫規劃](https://mirdex.github.io/MySQL/0-1%20關聯式資料庫的規劃.slides.html)
 - 實務部分
   - [3.基本SQL查詢](https://mirdex.github.io/MySQL/1.%20基礎SQL查詢_Q.slides.html)
