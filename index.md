@@ -24,5 +24,5 @@
   - [2.資料庫規劃](https://mirdex.github.io/MySQL/0-1%20關聯式資料庫的規劃.slides.html)
 - 實務部分
   - [3.基本SQL查詢](https://mirdex.github.io/MySQL/1.%20基礎SQL查詢_Q.slides.html)
-  - [4.資料表操作](https://mirdex.github.io/MySQL/2.%20資料表操作.slides.html)
+  - 4.資料表操作
   - 5.進階查詢技巧
