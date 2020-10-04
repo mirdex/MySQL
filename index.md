@@ -25,4 +25,4 @@
 - 實務部分
   - [3.基本SQL查詢](https://mirdex.github.io/MySQL/1.%20基礎SQL查詢_Q.slides.html)
   - [4.資料表操作](https://mirdex.github.io/MySQL/2.%20資料表操作.slides.html)
-  - [5.進階查詢技巧](https://mirdex.github.io/MySQL/3.%20進階查詢技巧_Q.slides.html)
+  - [5.進階查詢技巧](https://mirdex.github.io/MySQL/3.%20進階查詢技巧.slides.html)
